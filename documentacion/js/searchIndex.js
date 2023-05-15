@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\Producto",
+            "name": "Producto",
+            "summary": "Description\u0020of\u0020Producto\nClase\u0020que\u0020sirve\u0020de\u0020modelo\u0020a\u0020los\u0020objetos\u0020Producto.",
+            "url": "classes/Producto.html"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "function\u0020_construct\nFunci\u00F3n\u0020constructora\u0020con\u0020par\u00E1metros\u0020de\u0020la\u0020clase\u0020Producto",
+            "url": "classes/Producto.html#method___construct"
+        },                {
+            "fqsen": "\\Producto\u003A\u003AsetPrecio\u0028\u0029",
+            "name": "setPrecio",
+            "summary": "function\u0020setPrecio\nSetter\u0020de\u0020precio,\u0020comprueba\u0020si\u0020es\u0020un\u0020n\u00FAmero\u0020y\u0020si\u0020es\u0020mayor\u0020que\u0020cero,\u0020de\u0020lo\ncontrario\u0020devuelve\u0020false.",
+            "url": "classes/Producto.html#method_setPrecio"
+        },                {
+            "fqsen": "\\Producto\u003A\u003AsetStock\u0028\u0029",
+            "name": "setStock",
+            "summary": "Setter\u0020de\u0020stock,\u0020comprueba\u0020si\u0020es\u0020un\u0020n\u00FAmero\u0020y\u0020si\u0020es\u0020mayor\u0020que\u0020cero,\u0020de\u0020lo\ncontrario\u0020devuelve\u0020false.",
+            "url": "classes/Producto.html#method_setStock"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024id",
+            "name": "id",
+            "summary": "",
+            "url": "classes/Producto.html#property_id"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024cod",
+            "name": "cod",
+            "summary": "",
+            "url": "classes/Producto.html#property_cod"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024desc",
+            "name": "desc",
+            "summary": "",
+            "url": "classes/Producto.html#property_desc"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024precio",
+            "name": "precio",
+            "summary": "",
+            "url": "classes/Producto.html#property_precio"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024stock",
+            "name": "stock",
+            "summary": "",
+            "url": "classes/Producto.html#property_stock"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
